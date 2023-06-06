@@ -117,4 +117,6 @@ cluster 7: 93[944,835]
 
 <br>
 
-![Semantic description of image](images/Screenshot_4.png)*Visualized output*
+![Semantic description of image](images/Screenshot_4.png)
+
+*Visualized output*
