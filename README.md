@@ -44,7 +44,7 @@ The output of the program is a list of clusters. Each cluster is represented by 
 
 
 ## Input File Format
-The input data is stored in a text file in a LF format (unix). File must be in the same folder as the program. The first line of the file specifies the number of objects in the file in the following format:
+The input data is stored in a text file in a LF format (unix) if you run it on unix OS, and CRLF if you run it on Windows. File must be in the same folder as the program. The first line of the file specifies the number of objects in the file in the following format:
 
 ```
 count=N
