@@ -120,3 +120,11 @@ cluster 7: 93[944,835]
 ![Semantic description of image](images/Screenshot_4.png)
 
 *Visualized output*
+
+<br>
+
+By default the program is analysing using the closest neighbour method. If you want to use the furthest neighbour method (furthest neighbour), you can run the program with `-k` in the last argument:
+  
+  ```
+  ./cluster FILE [N] -k
+  ```
